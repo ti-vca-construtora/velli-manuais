@@ -88,6 +88,14 @@ const Home = () => {
             <HiOutlineDownload />
             <p>Plantas hidrossanitárias</p>
           </Link>
+                    <Link
+            target="_blank"
+            href={'ARQUITETONICO VELLI.zip'}
+            className="flex gap-4 shadow-md items-center bg-main-green hover:bg-lighter-green hover:px-8 sm:hover:px-10 transition-all duration-100 cursor-pointer text-xs sm:text-base w-80 sm:w-[26rem] px-6 py-4 rounded"
+          >
+            <HiOutlineDownload />
+            <p>Plantas arquitetônicas</p>
+          </Link>
           <Link
             target="_blank"
             href={'ESTRUTURA.zip'}
